@@ -1,4 +1,4 @@
-# >`_` Syntax Labs
+# >_ Syntax Labs
 
 **Ingénierie logicielle & consulting technique**
 
