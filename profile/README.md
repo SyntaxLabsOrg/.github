@@ -4,7 +4,7 @@
 
 Syntax Labs accompagne startups et entreprises dans la conception et le développement de produits numériques fiables — applications web, systèmes backend scalables et infrastructures cloud.
 
-Fondée par [Cyril Colinet](https://syntax-labs.fr), ingénieur spécialisé en architectures backend, systèmes distribués et plateformes cloud.
+Fondée par [@cyrilcolinet](https://github.com/cyrilcolinet), ingénieur spécialisé en architectures backend, systèmes distribués et plateformes cloud.
 
 > 🟢 Disponible pour de nouveaux projets
 
